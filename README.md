@@ -1,1 +1,1 @@
-# This is my Machine Learning Applicaton Project with Andrio Studio.
+# This is my Machine Learning Applicaton using android studio.
